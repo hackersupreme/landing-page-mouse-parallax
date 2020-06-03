@@ -1,8 +1,8 @@
 # React Spring Mouse Parallax Landing Page
 
-Simple landing page that uses a mouse parallax.
+Simple landing page that uses a mouse parallax. The parallax is powered by the animation library React Spring. Check out my [documentation](https://github.com/hackersupreme/mouse-parallax-example-documentation) on how you can use the library to achieve a mouse parallax effect.
 
-The two city skylines scale at different rates creating a neat zoom effect. Imagine what good illustrators could do with this technology!
+On this page the two city skylines scale at different rates creating a neat zoom effect when you move your mouse around. Imagine what good illustrators could do with this technology!
 
 ![Screenshot](./screenshot.PNG)
 
@@ -33,3 +33,20 @@ npm install
 ```
 npm start
 ```
+
+## Resources / Contact Info
+
+### Email
+
+jeffgsch@gmail.com
+
+### Website
+
+http://hackersupreme.com
+
+### Resources
+
+- [Mouse Parallax React Spring Documentation](https://github.com/hackersupreme/mouse-parallax-example-documentation)
+- [React Spring Mouse Parallax CodeSandbox Example](https://codesandbox.io/s/r5x34869vq?from-embed)
+- [React Spring Official Docs](https://www.react-spring.io/)
+- [React Spring useSpring Hook](https://www.react-spring.io/docs/hooks/use-spring)
